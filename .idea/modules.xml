@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacultyService/FacultyService.iml" filepath="$PROJECT_DIR$/FacultyService/FacultyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayService/GatewayService.iml" filepath="$PROJECT_DIR$/GatewayService/GatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JwtSpringBoot/JwtSpringBoot.iml" filepath="$PROJECT_DIR$/JwtSpringBoot/JwtSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OnthiCuoiKi.iml" filepath="$PROJECT_DIR$/.idea/OnthiCuoiKi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis_Crud_listOperation/Redis_Crud_listOperation.iml" filepath="$PROJECT_DIR$/Redis_Crud_listOperation/Redis_Crud_listOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinhVienService/SinhVienService.iml" filepath="$PROJECT_DIR$/SinhVienService/SinhVienService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudConfig/SpringCloudConfig.iml" filepath="$PROJECT_DIR$/SpringCloudConfig/SpringCloudConfig.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: CONFIG-SERVER
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/VanVinh983/SpringCloudConfig
+          default-label: main
+          clone-on-start: true
+        bootstrap: false

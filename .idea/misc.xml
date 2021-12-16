@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/FacultyService/pom.xml" />
+        <option value="$PROJECT_DIR$/SinhVienService/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayService/pom.xml" />
+        <option value="$PROJECT_DIR$/Redis_Crud_listOperation/pom.xml" />
+        <option value="$PROJECT_DIR$/JwtSpringBoot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+server:
+  port: 8282
+spring:
+  application:
+    name: GATEWAYSERVICE
+  cloud:
+    gateway:
+      routes:
+        - id: SINHVIENSERVICE
+          uri: lb://SINHVIENSERVICE
+          predicates:
+            - Path=/api/sinhvien/**
+        - id: FACULTYSERVICE
+          uri: lb://FACULTYSERVICE
+          predicates:
+            - Path=/api/faculty/**
+eureka:
+  client:
+    register-with-eureka:
+      value: true
+    fetch-registry:
+      value: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    instance:
+      hostname: localhost
